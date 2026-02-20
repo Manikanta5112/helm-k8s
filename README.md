@@ -1,1 +1,2 @@
-# helm-k8s
+# helm-zero-to-hero
+Learn Helm from basics
